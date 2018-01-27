@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Ashish Singh](https://gravatar.com/avatar/3cfa0f5170e627390fdd2acaec874b86.jpg?s=300)
+![Pankaj Kumar Rawat](https://en.gravatar.com/userimage/51246482/443818670c057c9204ec86565d29447e.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ _Currently reading super awesome [Elixir in Action](https://www.manning.com/book
 
 ## Follow me
 
-Ashish Singh ([Twitter](http://twitter.com/ashishait)/[GitHub](http://github.com/ashish173)/[Blog](https://medium.com/@ashishait))
+Pankaj Kumar Rawat ([Twitter](http://twitter.com/ashishait)/[GitHub](http://github.com/ashish173)/[Blog](https://medium.com/@ashishait))
 
 ---
 
