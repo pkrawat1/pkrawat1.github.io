@@ -35,7 +35,7 @@ _Currently reading super awesome [Elixir in Action](https://www.manning.com/book
 
 ## Follow me
 
-Pankaj Kumar Rawat ([Twitter](http://twitter.com/ashishait)/[GitHub](http://github.com/ashish173)/[Blog](https://medium.com/@ashishait))
+Pankaj Kumar Rawat ([Twitter](http://twitter.com/pkrawat1)/[GitHub](http://github.com/pkrawat1)/[Blog](https://medium.com/@pkrawat1))
 
 ---
 
