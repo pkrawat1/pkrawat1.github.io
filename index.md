@@ -15,7 +15,7 @@ __A hipster developer who thinks code `maintainability` and `extensibility` are 
 ## Open Source
 
 * Author and maintainer of [Gringotts](https://github.com/aviabird/gringotts) a payment gateway integrator library based on shopify's [activemerchant](https://github.com/activemerchant/active_merchant).
-* Author and maintainer of [AngularSpree](https://github.com/aviabird/angularspree) an open source frontend e-commerce framework in [Angular 2.x+](https://angular.io).
+* Author and maintainer of [AngularSpree](https://github.com/aviabird/angularspree) an open source frontend e-commerce framework in [Angular 7.x+](https://angular.io).
 
 ---
 
