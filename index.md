@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Pankaj Kumar Rawat](https://en.gravatar.com/userimage/51246482/443818670c057c9204ec86565d29447e.jpg)
+![Pankaj Kumar Rawat](https://en.gravatar.com/userimage/51246482/5b57eff392513f541c7e8f050135bd6e.jpeg?size=256)
 
 ---
 
